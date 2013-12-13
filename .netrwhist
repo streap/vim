@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/run/media/streap/user/box_mylibs'
+let g:netrw_dirhist_2='/run/media/streap/user/box_mylibs/lib_Notebooks'
+let g:netrw_dirhist_3='/run/media/streap/user/box_mylibs/lib_Notebooks/notes'
